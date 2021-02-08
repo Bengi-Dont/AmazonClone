@@ -4,8 +4,10 @@ Github error, Create SRC folder, Include Everything except .firebaserc .gitignor
 
 NPM or yarn
 Dependent on: 
+
 React-router-dom  
 - $ npm install --save react-router-dom ;
+
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom"; 
 
 ;
